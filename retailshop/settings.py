@@ -89,7 +89,7 @@ WSGI_APPLICATION = 'retailshop.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.postgresql_psycopg2',
-        'NAME': BASE_DIR / 'd78qlljnud67dk',
+        'NAME': 'd78qlljnud67dk',
         'USER': 'pggbgeypruqqsy',
         'PASSWORD': 'ad5fcad3f3f0f269c535c9e19f8d09b2861b3b83c8a308ad9eb4f333e560c9f9',
         'HOST': 'ec2-44-207-253-50.compute-1.amazonaws.com',
